@@ -1,0 +1,5 @@
+library-api
+.env
+.env.*
+!.env.example
+*.log
